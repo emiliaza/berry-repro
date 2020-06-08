@@ -1,0 +1,11 @@
+{
+  "name": "webpack",
+  "private": true,
+  "devDependencies": {
+    "webpack": "next",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "start": "webpack"
+  }
+}
