@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "parcel",
   "private": true,
   "dependencies": {
     "parcel": "next"
