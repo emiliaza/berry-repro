@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "private": true,
+  "dependencies": {
+    "parcel": "next"
+  },
+  "scripts": {
+    "start": "parcel index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0"
+  }
+}
